@@ -16,7 +16,7 @@
 
 
 body{
-    background-image:url(images/image.png) ;
+    background-image:url(https://www.australianenvironmentaleducation.com.au/wp-content/uploads/2022/02/Stormclouds-small.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
     font-style: arial ;
@@ -96,7 +96,7 @@ img[src=""] {
 
 
 .container{
-    background-image: url(images/image.png);
+    background-image: url(https://www.australianenvironmentaleducation.com.au/wp-content/uploads/2022/02/Stormclouds-small.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 4vmin;
