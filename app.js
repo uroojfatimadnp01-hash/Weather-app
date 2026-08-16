@@ -18,7 +18,7 @@ searchBtn.addEventListener("click" , async ()=>{
         alert("Please enter the city name... ");
     }else{
         console.log(cityName);
-        let promise = await fetch("http://api.openweathermap.org/data/2.5/weather" + "?q=" +cityName+ "&appid=" + "2f9f48b8a4bbe6a5ee3b454f56a8135a" +  "&units=metric" );
+        let promise = await fetch("https://api.openweathermap.org/data/2.5/weather" + "?q=" +cityName+ "&appid=" + "2f9f48b8a4bbe6a5ee3b454f56a8135a" +  "&units=metric" );
         if(!promise.ok){
             alert("Please enter the correct spelling.");
             return;
