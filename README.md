@@ -18,10 +18,7 @@ https://uroojfatimadnp01-hash.github.io/Weather-app/
 * **JavaScript (Vanilla)** - For fetching weather data (API integration) and handling DOM manipulation.
 * **Font Awesome** - For clean UI icons.
 
-## 💻 Live Demo
-Check out the live website here: 
-👉(https://uroojfatimadnp01-hash.github.io/Weather-app/)
 
-
----
-*Created with ❤️ by [Your Name]*
+## 👩‍💻 Author
+**Urooj Fatima**
+* GitHub: [@uroojfatimadnp01-hash](https://github.com/uroojfatimadnp01-hash)
